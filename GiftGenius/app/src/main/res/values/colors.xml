@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#b1ede8</color>
+    <color name="primary_variant">#8fd4d0</color>
+    <color name="accent">#ff6978</color>
+    <color name="accent_variant">#ff4d5e</color>
+    <color name="background">#fffcf9</color>
+    <color name="surface">#ffffff</color>
+    <color name="text_primary">#000000</color>
+    <color name="text_secondary">#757575</color>
+    <color name="favorite_inactive">#BDBDBD</color>
+    <color name="favorite_active">#ff6978</color>
+    <color name="card_background">#E0F7FA</color>
+    <color name="error">#FF5252</color>
+</resources>

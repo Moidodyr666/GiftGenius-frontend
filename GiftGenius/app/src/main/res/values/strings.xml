@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GiftGenius</string>
+    <string name="tab_home">Главная</string>
+    <string name="tab_favorites">Избранное</string>
+    <string name="tab_profile">Профиль</string>
+    <string name="btn_generate">Сгенерировать</string>
+    <string name="btn_find_gifts">Найти подарки</string>
+    <string name="btn_buy">Купить на Ozon/WB</string>
+    <string name="btn_retry">Повторить</string>
+    <string name="hint_recipient">Кому подарок?</string>
+    <string name="hint_occasion">Повод</string>
+    <string name="hint_interests">Интересы</string>
+    <string name="hint_budget">Бюджет</string>
+    <string name="empty_favorites">Здесь будут\nсохранённые подарки</string>
+    <string name="error_no_connection">Проверьте подключение к интернету</string>
+    <string name="error_load_failed">Не удалось загрузить идеи</string>
+    <string name="error_no_results">По вашим параметрам не найдено, но мы подобрали похожие варианты</string>
+    <string name="offline_mode">Работаем офлайн</string>
+    <string name="loading">Идеи для подарка</string>
+    <string name="price_format">%d ₽</string>
+    <string name="added_to_favorites">Добавлено в избранное</string>
+    <string name="removed_from_favorites">Удалено из избранного</string>
+</resources>
